@@ -1,0 +1,9 @@
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+
+ <div id={room} className=" mov Vd-box "
+       style={{width:'280px',height:'200px', backgroundImage: "url(http://192.168.8.102:6800/imges/"+room+".png)"}} >
+         <span className=" badge badge-danger">LIVE</span>
+         </div>
+         </div>
